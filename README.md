@@ -13,3 +13,7 @@
 julia> 
 
 ```
+
+- [在GitHub中阅读](https://github.com/JuliaCN/CuriousJulia/tree/master/home)
+- [在nbviewer中阅读](https://nbviewer.jupyter.org/github/JuliaCN/CuriousJulia/tree/master/home/)
+
